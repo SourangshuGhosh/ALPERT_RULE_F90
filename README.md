@@ -27,4 +27,4 @@ Please use Github issue tracker to report bugs. For other questions please conta
 License
 -----
 
-GaussianProcessMotionPlanner is released under the MIT license, reproduced in the file LICENSE in this directory.
+ALPERT_RULE_F90 is released under the MIT license, reproduced in the file LICENSE in this directory.
