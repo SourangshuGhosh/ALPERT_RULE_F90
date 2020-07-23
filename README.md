@@ -18,3 +18,13 @@ Bradley Alpert,
 Hybrid Gauss-Trapezoidal Quadrature Rules,
 SIAM Journal on Scientific Computing,
 Volume 20, Number 5, pages 1551-1584, 1999.
+
+Questions & Bug reporting
+-----
+
+Please use Github issue tracker to report bugs. For other questions please contact [Sourangshu Ghosh](mailto:sourangshug123@gmail.com)
+
+License
+-----
+
+GaussianProcessMotionPlanner is released under the MIT license, reproduced in the file LICENSE in this directory.
